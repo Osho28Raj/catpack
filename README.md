@@ -1,12 +1,9 @@
-# Catuserbot-heroku
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fi-osho%2Fcatpack&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Osho28Raj/catub)
 
-This is just heroku support source 
-Main source is here [main source](https://github.com/i-osho/catub) fork and give star to that repo 
+***
+<p align="center">
+ <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fi-osho%2Fcatpack"><b>今すぐデプロイ</b></a>
+ <br><br>
+ <b>Ima sugu depuroi<br><br>Arigato!</b>
+</p>
 
-## Deploy
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fi-osho%2Fcatpack)
-
-## credits
-   - [@midnightmadwalk](https://t.me/midnightmadwalk)
-   - [@DeletedUser420](https://t.me/DeletedUser420)
+***
